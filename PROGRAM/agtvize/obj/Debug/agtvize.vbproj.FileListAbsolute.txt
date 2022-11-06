@@ -1,0 +1,14 @@
+C:\Users\yasin\source\repos\agtvize\agtvize\bin\Debug\agtvize.exe.config
+C:\Users\yasin\source\repos\agtvize\agtvize\bin\Debug\agtvize.exe
+C:\Users\yasin\source\repos\agtvize\agtvize\bin\Debug\agtvize.pdb
+C:\Users\yasin\source\repos\agtvize\agtvize\bin\Debug\agtvize.xml
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.vbprojAssemblyReference.cache
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.Form1.resources
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.Resources.resources
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.vbproj.GenerateResource.cache
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.vbproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.exe
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.xml
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.pdb
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.Form2.resources
+C:\Users\yasin\source\repos\agtvize\agtvize\obj\Debug\agtvize.Form3.resources
